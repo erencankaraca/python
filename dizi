@@ -1,0 +1,3 @@
+kelimeler = ['armut','elma','hasan','hüseyin']
+for k in kelimeler:
+    print(k,len(k))
